@@ -9,4 +9,4 @@ For use in commercial projects, kindly contact [Enrico Gobbetti](mailto:gobbetti
 
 If you use this software in a publication, kindly cite the references mentioned in the README file.
 
-For more information, visit the [CRS4 Visual Computing](http://www.crs4.it/vic/) web page and the [TDM project] (http://www.tdm-project.it) web pages. 
+For more information, visit the [CRS4 Visual Computing](http://www.crs4.it/vic/) web page and the [TDM project](http://www.tdm-project.it) web pages. 
