@@ -1,0 +1,1 @@
+This directory contains a small example file to be used for testing the volumetric codec. The file contains a single frame of a time-varying simulation. The 512x512x128 scalar volume contains the vorticity field of a fluid-dynamics simulation of wind in the city of Shinjuku, Japan. Building footprint data is courtesy of the Architectural Institute of Japan.
