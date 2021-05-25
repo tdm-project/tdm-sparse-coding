@@ -1,0 +1,4 @@
+raw_volume_header
+sample_counts 512 512 128
+sample_spacing 1 1 1
+bps 32
