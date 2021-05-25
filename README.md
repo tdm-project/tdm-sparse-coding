@@ -22,7 +22,7 @@ Using the code
 --------------
 
 See INSTALL file for installation instructions and individual class documentation for more info.
-Additional documentation is availabile in Deliverable D6.2 on the [TDM project](http://www.tdm-project.it/en/results/public-deliverables/) web site.
+Additional documentation is availabile in Deliverable D6.2 on the [TDM project deliverables](http://www.tdm-project.it/en/results/public-deliverables/) web site.
 
 Acknowledgments
 ---------------
